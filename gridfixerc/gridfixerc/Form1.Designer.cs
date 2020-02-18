@@ -36,6 +36,12 @@
             this.label2 = new System.Windows.Forms.Label();
             this.output2 = new System.Windows.Forms.RichTextBox();
             this.output1 = new System.Windows.Forms.RichTextBox();
+            this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
+            this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
+            this.file = new System.Windows.Forms.Button();
+            this.save = new System.Windows.Forms.Button();
+            this.progressBar1 = new System.Windows.Forms.ProgressBar();
+            this.progressLabel = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // pathout
@@ -48,7 +54,7 @@
             resources.ApplyResources(this.start, "start");
             this.start.Name = "start";
             this.start.UseVisualStyleBackColor = true;
-            this.start.Click += new System.EventHandler(this.start_Click);
+            this.start.Click += new System.EventHandler(this.Start_Click);
             // 
             // Label1
             // 
@@ -78,11 +84,43 @@
             this.output1.Name = "output1";
             this.output1.ReadOnly = true;
             // 
+            // openFileDialog1
+            // 
+            this.openFileDialog1.FileName = "openFileDialog1";
+            // 
+            // file
+            // 
+            resources.ApplyResources(this.file, "file");
+            this.file.Name = "file";
+            this.file.UseVisualStyleBackColor = true;
+            this.file.Click += new System.EventHandler(this.File_Click);
+            // 
+            // save
+            // 
+            resources.ApplyResources(this.save, "save");
+            this.save.Name = "save";
+            this.save.UseVisualStyleBackColor = true;
+            this.save.Click += new System.EventHandler(this.Save_Click);
+            // 
+            // progressBar1
+            // 
+            resources.ApplyResources(this.progressBar1, "progressBar1");
+            this.progressBar1.Name = "progressBar1";
+            // 
+            // progressLabel
+            // 
+            resources.ApplyResources(this.progressLabel, "progressLabel");
+            this.progressLabel.Name = "progressLabel";
+            // 
             // Gridfixer
             // 
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
+            this.Controls.Add(this.progressLabel);
+            this.Controls.Add(this.progressBar1);
+            this.Controls.Add(this.save);
+            this.Controls.Add(this.file);
             this.Controls.Add(this.pathin);
             this.Controls.Add(this.Label1);
             this.Controls.Add(this.output1);
@@ -91,7 +129,7 @@
             this.Controls.Add(this.start);
             this.Controls.Add(this.label2);
             this.Name = "Gridfixer";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Load += new System.EventHandler(this.Gridfixer_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -106,6 +144,12 @@
         internal System.Windows.Forms.Label label2;
         private System.Windows.Forms.RichTextBox output2;
         private System.Windows.Forms.RichTextBox output1;
+        private System.Windows.Forms.SaveFileDialog saveFileDialog1;
+        private System.Windows.Forms.OpenFileDialog openFileDialog1;
+        private System.Windows.Forms.Button file;
+        private System.Windows.Forms.Button save;
+        private System.Windows.Forms.ProgressBar progressBar1;
+        private System.Windows.Forms.Label progressLabel;
     }
 }
 

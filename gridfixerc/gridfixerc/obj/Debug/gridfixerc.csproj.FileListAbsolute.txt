@@ -19,3 +19,23 @@ J:\gridfixer\Grid fixer.exe.config
 J:\gridfixer\Grid fixer.exe
 J:\gridfixer\Grid fixer.pdb
 J:\gridfixer\en\Grid fixer.resources.dll
+C:\Users\acoup\Desktop\Grid-fixer-master\gridfixerc\gridfixerc\obj\Debug\gridfixerc.csprojAssemblyReference.cache
+C:\Users\acoup\Desktop\Grid-fixer-master\gridfixerc\gridfixerc\obj\Debug\gridfixerc.Gridfixer.resources
+C:\Users\acoup\Desktop\Grid-fixer-master\gridfixerc\gridfixerc\obj\Debug\gridfixer.Properties.Resources.resources
+C:\Users\acoup\Desktop\Grid-fixer-master\gridfixerc\gridfixerc\obj\Debug\gridfixerc.Gridfixer.en.resources
+C:\Users\acoup\Desktop\Grid-fixer-master\gridfixerc\gridfixerc\obj\Debug\gridfixerc.csproj.GenerateResource.cache
+C:\Users\acoup\Desktop\Grid-fixer-master\gridfixerc\gridfixerc\obj\Debug\Grid fixer.exe
+C:\Users\acoup\Desktop\Grid-fixer-master\gridfixerc\gridfixerc\obj\Debug\Grid fixer.pdb
+C:\Users\acoup\gridfixer\Grid fixer.exe.config
+C:\Users\acoup\gridfixer\Grid fixer.exe
+C:\Users\acoup\gridfixer\Grid fixer.pdb
+C:\Users\acoup\gridfixer\en\Grid fixer.resources.dll
+C:\Users\acoup\Desktop\Grid-fixer-master\gridfixerc\gridfixerc\obj\Debug\en\Grid fixer.resources.dll
+C:\Users\acoup\Desktop\Grid-fixer\gridfixerc\gridfixerc\obj\Debug\gridfixerc.csprojAssemblyReference.cache
+C:\Users\acoup\Desktop\Grid-fixer\gridfixerc\gridfixerc\obj\Debug\gridfixerc.Gridfixer.resources
+C:\Users\acoup\Desktop\Grid-fixer\gridfixerc\gridfixerc\obj\Debug\gridfixer.Properties.Resources.resources
+C:\Users\acoup\Desktop\Grid-fixer\gridfixerc\gridfixerc\obj\Debug\gridfixerc.Gridfixer.en.resources
+C:\Users\acoup\Desktop\Grid-fixer\gridfixerc\gridfixerc\obj\Debug\gridfixerc.csproj.GenerateResource.cache
+C:\Users\acoup\Desktop\Grid-fixer\gridfixerc\gridfixerc\obj\Debug\en\Grid fixer.resources.dll
+C:\Users\acoup\Desktop\Grid-fixer\gridfixerc\gridfixerc\obj\Debug\Grid fixer.exe
+C:\Users\acoup\Desktop\Grid-fixer\gridfixerc\gridfixerc\obj\Debug\Grid fixer.pdb

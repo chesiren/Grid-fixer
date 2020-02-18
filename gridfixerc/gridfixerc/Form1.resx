@@ -122,14 +122,11 @@
     <value>12, 62</value>
   </data>
   <data name="pathout.Size" type="System.Drawing.Size, System.Drawing">
-    <value>518, 20</value>
+    <value>411, 20</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="pathout.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
-  </data>
-  <data name="pathout.Text" xml:space="preserve">
-    <value>C:\Users\name\Desktop\map_fix.vmf</value>
   </data>
   <data name="&gt;&gt;pathout.Name" xml:space="preserve">
     <value>pathout</value>
@@ -141,13 +138,13 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;pathout.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>8</value>
   </data>
   <data name="start.Location" type="System.Drawing.Point, System.Drawing">
-    <value>549, 12</value>
+    <value>549, 17</value>
   </data>
   <data name="start.Size" type="System.Drawing.Size, System.Drawing">
-    <value>470, 72</value>
+    <value>470, 42</value>
   </data>
   <data name="start.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
@@ -165,7 +162,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;start.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>9</value>
   </data>
   <data name="Label1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -192,19 +189,16 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;Label1.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>5</value>
   </data>
   <data name="pathin.Location" type="System.Drawing.Point, System.Drawing">
     <value>12, 25</value>
   </data>
   <data name="pathin.Size" type="System.Drawing.Size, System.Drawing">
-    <value>518, 20</value>
+    <value>411, 20</value>
   </data>
   <data name="pathin.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
-  </data>
-  <data name="pathin.Text" xml:space="preserve">
-    <value>C:\Users\name\Desktop\map.vmf</value>
   </data>
   <data name="&gt;&gt;pathin.Name" xml:space="preserve">
     <value>pathin</value>
@@ -216,7 +210,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;pathin.ZOrder" xml:space="preserve">
-    <value>0</value>
+    <value>4</value>
   </data>
   <data name="label2.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -247,7 +241,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>10</value>
   </data>
   <data name="output2.Location" type="System.Drawing.Point, System.Drawing">
     <value>549, 101</value>
@@ -271,7 +265,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;output2.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>7</value>
   </data>
   <data name="output1.Location" type="System.Drawing.Point, System.Drawing">
     <value>12, 101</value>
@@ -295,7 +289,112 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;output1.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <metadata name="saveFileDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="openFileDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>153, 17</value>
+  </metadata>
+  <data name="file.Location" type="System.Drawing.Point, System.Drawing">
+    <value>430, 25</value>
+  </data>
+  <data name="file.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 20</value>
+  </data>
+  <data name="file.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="file.Text" xml:space="preserve">
+    <value>file</value>
+  </data>
+  <data name="&gt;&gt;file.Name" xml:space="preserve">
+    <value>file</value>
+  </data>
+  <data name="&gt;&gt;file.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;file.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;file.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="save.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="save.Location" type="System.Drawing.Point, System.Drawing">
+    <value>430, 62</value>
+  </data>
+  <data name="save.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 20</value>
+  </data>
+  <data name="save.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="save.Text" xml:space="preserve">
+    <value>save</value>
+  </data>
+  <data name="&gt;&gt;save.Name" xml:space="preserve">
+    <value>save</value>
+  </data>
+  <data name="&gt;&gt;save.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;save.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;save.ZOrder" xml:space="preserve">
     <value>2</value>
+  </data>
+  <data name="progressBar1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>549, 63</value>
+  </data>
+  <data name="progressBar1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>470, 23</value>
+  </data>
+  <data name="progressBar1.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="&gt;&gt;progressBar1.Name" xml:space="preserve">
+    <value>progressBar1</value>
+  </data>
+  <data name="&gt;&gt;progressBar1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ProgressBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;progressBar1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;progressBar1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="progressLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="progressLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>766, 69</value>
+  </data>
+  <data name="progressLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 13</value>
+  </data>
+  <data name="progressLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="progressLabel.Text" xml:space="preserve">
+    <value>progress</value>
+  </data>
+  <data name="&gt;&gt;progressLabel.Name" xml:space="preserve">
+    <value>progressLabel</value>
+  </data>
+  <data name="&gt;&gt;progressLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;progressLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;progressLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
@@ -1523,6 +1622,18 @@
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Grid Fixer</value>
+  </data>
+  <data name="&gt;&gt;saveFileDialog1.Name" xml:space="preserve">
+    <value>saveFileDialog1</value>
+  </data>
+  <data name="&gt;&gt;saveFileDialog1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.SaveFileDialog, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;openFileDialog1.Name" xml:space="preserve">
+    <value>openFileDialog1</value>
+  </data>
+  <data name="&gt;&gt;openFileDialog1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.OpenFileDialog, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>Gridfixer</value>
